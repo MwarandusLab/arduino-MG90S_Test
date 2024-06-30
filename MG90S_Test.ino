@@ -2,7 +2,7 @@
 
 Servo servo_1; // servo controller (multiple can exist)
 
-int servo_pin = 5; // GPIO pin for servo control on ESP32
+int servo_pin = 9; // GPIO pin for servo control on ESP32
 int pos = 0;      // servo starting position
 
 void setup() {
